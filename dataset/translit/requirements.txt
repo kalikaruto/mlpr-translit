@@ -2,4 +2,3 @@ ai4bharat-transliteration
 fastapi
 uvicorn
 pydantic
-dotenv
